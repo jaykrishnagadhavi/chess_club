@@ -170,4 +170,10 @@ p {
     .part-one {
         padding-top: 20px;
     }
+    
+    .header-text {
+    font-size: 2rem;
+    text-align: center;
+    font-family:  "Spicy Rice", serif;
+    }
 }
